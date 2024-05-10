@@ -1,6 +1,6 @@
 # php-5.6.17 Learning php kenel
 
-# Auto Generate Index
+# Auto Generated Index
 
 - [php-5.6.17](/)
   - [PHP Gallary](/gallary.lux.md)
