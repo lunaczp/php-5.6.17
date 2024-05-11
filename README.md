@@ -3,7 +3,6 @@
 # Auto Generated Index
 
 - [php-5.6.17](/)
-  - [PHP Gallary](/gallary.lux.md)
   - [php-5.6.17](/php-5.6.17)
     - [Todo List](/php-5.6.17/Todo.lux.md)
     - [Zend](/php-5.6.17/Zend)
